@@ -1,3 +1,5 @@
+#README
+
 This folder contains the simulation files and DF results associated with:
 
 Jenkins, G.W., Samuelson, L.K., & Spencer, J.P. (2020). 
