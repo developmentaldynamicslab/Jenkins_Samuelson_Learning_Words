@@ -1,4 +1,4 @@
-#README
+# README
 
 This folder contains the simulation files and DF results associated with:
 
