@@ -2,7 +2,7 @@
 
 This folder contains the simulation files and DF results associated with:
 
-Jenkins, G.W., Samuelson, L.K., & Spencer, J.P. (2020). 
+Jenkins, G.W., Samuelson, L.K., Penny, W. & Spencer, J.P. (2020). 
 Learning words in space and time: Contrasting models of the suspicious coincidence effect. 
 Cognition.
 
